@@ -1,7 +1,7 @@
 [project]
 name = "rag-app"
 version = "0.1.0"
-description = "Add your description here"
+description = "High-Performance Retrieval-Augmented Generation (RAG) Pipeline using LangChain, FAISS, Chroma, HuggingFace & Groq LLM"
 readme = "README.md"
 requires-python = ">=3.9"
 dependencies = [
